@@ -61,11 +61,11 @@ Configuration access:
 Configuration access is only possible from the device's _LAN_ side. This is for security reasons, to prevent
 anybody on the upstream (WAN) network gaining access.
 
-- Web-based configuration: Enter the LAN IP address (10.10.210.254) into a web browser. Enter the root
+- Web-based configuration: Enter the LAN IP address (10.10.150.254) into a web browser. Enter the root
   credentials when prompted.
 
 - SSH configuration: Use a program such as _PuTTY_ (Windows) or _OpenSSH_ (Linux) to connect to the OpenWRT
-  Linux terminal. Use the LAN IP adddress (10.10.210.254) and enter the root credentials when prompted.
+  Linux terminal. Use the LAN IP adddress (10.10.150.254) and enter the root credentials when prompted.
 
 - Serial configuration: Use this in the event that LAN network access is not possible. Connect a Cisco RJ45
   serial console cable directly to the "console" port on the underside of the device. The other end of the
