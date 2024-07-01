@@ -51,8 +51,8 @@ WiFi network details:
 IP addressing details:
 ----------------------
 
-- Router LAN subnet: `10.10.210.0/24`
-- Router LAN IP address: `10.10.210.254`
+- Router LAN subnet: `10.10.150.0/24`
+- Router LAN IP address: `10.10.150.254`
 - Router WAN IP address: [Determined by upstream DHCP]
 
 Configuration access:
