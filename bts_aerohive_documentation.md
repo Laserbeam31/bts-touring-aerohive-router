@@ -5,7 +5,7 @@ This touring router is a repurposed _HiveAP_ 330 WiFi access point from Aerohive
 custom firmware. This firmware allows the unit's (relatively powerful) internal hardware to act as a
 fully-fledged router, firewall, and DHCP server (among other functions).
 
-The custom firmware used on this device is _OpenWRT_ (see: https://openwrt.org/). This is a Linux-based
+The custom firmware used on this device is _OpenWRT_ (see: <https://openwrt.org/>). This is a Linux-based
 router firmware, intended as an open-source alternative to the stock firmware on a wide variety of
 network appliances. OpenWRT can be configured either through a web interface (HTTP) or directly through 
 its regular Linux command prompt (SSH/telnet/serial).
